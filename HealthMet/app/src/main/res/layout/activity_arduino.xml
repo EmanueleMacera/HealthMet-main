@@ -1,0 +1,45 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#212121">
+
+    <TextView
+        android:id="@+id/selectedContactTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/ricordati_di_selezionare_il_contatto"
+        android:textSize="20sp"
+        android:textColor="@android:color/white"
+        android:gravity="center"/>
+
+    <Button
+        android:id="@+id/selectContactButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:text="@string/seleziona_il_contatto"
+        android:backgroundTint="#00464C"
+        android:textStyle="bold"
+        android:textColor="#00A3BF"
+        android:onClick="selectContact"/>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="32dp"
+        android:gravity="center">
+
+        <TextView
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="@string/istruzioni"
+            android:textColor="@android:color/white"
+            android:textSize="25sp" />
+
+    </RelativeLayout>
+
+</LinearLayout>

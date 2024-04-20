@@ -1,0 +1,16 @@
+<resources>
+    <!-- Purple Colors -->
+    <color name="purple_200">#3A3DEE</color>
+    <color name="purple_500">#87CEFA</color>
+    <color name="purple_700">#FF000000</color> <!-- Nero con 100% di opacità -->
+
+    <!-- Teal Colors -->
+    <color name="teal_200">#00838F</color>
+    <color name="teal_700">#FF000000</color> <!-- Nero con 100% di opacità -->
+
+    <!-- Colors -->
+    <color name="black">#FF000000</color> <!-- Nero con 100% di opacità -->
+    <color name="white">#FFFFFFFF</color> <!-- Bianco con 100% di opacità -->
+    <color name="light_blue">#87CEFA</color> <!-- Blu chiaro -->
+    <color name="colorAccent">#00B0FF</color> <!-- Azzurro accent -->
+</resources>

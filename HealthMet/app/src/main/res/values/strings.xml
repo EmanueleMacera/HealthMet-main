@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HealthMet</string>
+    <string name="welcome_select_device">Benvenuto, seleziona il tuo dispositivo</string>
+    <string name="connect">CONNETTI</string>
+    <string name="find">TROVA</string>
+    <string name="select_contact_reminder">Ricordati di selezionare il contatto</string>
+    <string name="select_contact">Seleziona il contatto</string>
+    <string name="motorbike">Motorbike</string>
+    <string name="instructions">Istruzioni: Dopo aver selezionato il contatto di emergenza, in caso di caduta, il cellulare manderà un messaggio con la posizione.</string>
+</resources>
